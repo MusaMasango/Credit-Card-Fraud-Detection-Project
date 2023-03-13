@@ -76,7 +76,7 @@ The reason why I chose this algorithms is beacause since we are dealing with a c
 ## Model Performance
 The Random forest model far outperformed the the other approaches on the test and validation sets as shown below
 
-![correlation matrix](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/correlation%20matrix.png)
+![model accuracy comparison](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/correlation%20matrix.png)
 
 
 This results makes sense intuitively, since logistic regression algorithm works best where the target variable (dependant variable) is a binary, in this case since the loan status is a binary value between 0 and 1, the logistic regression algorithm will perform better compared to the other models.
