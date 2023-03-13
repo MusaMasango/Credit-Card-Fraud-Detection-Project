@@ -44,7 +44,8 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 ## Exploratory Data Analysis (EDA)
 The data only consists of numerical variables, no categorical variables were present. I looked at different distributions for the numeric data. Below are highlights from the data visualization section
 
-![bar graph](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/bar%20graph.png)
+![bar graph](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/labels%20bar%20graph.png)
+![bar graph](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/labels%20bar%20graph.png)
 
 
 ## Model Building 
