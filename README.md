@@ -1,7 +1,7 @@
 ## Credit-Card-Fraud-Detection-Project
 
 ## Introduction
-CLosses related to credit card fraud will grow to $43 billion within five years and climb to $408.5 billion globally within the next decade, according to a recent Nilson Report — meaning that credit card fraud detection has become more important than ever. 
+Losses related to credit card fraud will grow to $43 billion within five years and climb to $408.5 billion globally within the next decade, according to a recent Nilson Report — meaning that credit card fraud detection has become more important than ever. 
 
 The sting of these rising costs will be felt by all parties within the payment lifecycle: from banks and credit card companies who foot the bill of such fraud, to the consumers who pay higher fees or receive lower credit scores, to merchants and small businesses who are slapped with chargeback fees.
 
